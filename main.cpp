@@ -1,3 +1,8 @@
+// CIS 7 Course Project
+// Author: Mehak Lohchan
+// Published: June 7th, 2023
+
+
 #include <iostream>
 #include <string>
 
