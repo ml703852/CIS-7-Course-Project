@@ -1,5 +1,7 @@
 # CIS-7-Course-Project
 
+Vigenère Cipher Encryption and Decryption
+
 Author: Mehak Lohchan
 
 Published: June 7th, 2023
